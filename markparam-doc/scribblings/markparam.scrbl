@@ -1,5 +1,5 @@
 #lang scribble/manual
-@(require (for-label racket unstable/markparam))
+@(require (for-label racket markparam))
 
 @title{Mark Parameters}
 @author+email["Jay McCarthy" "jay@racket-lang.org"]
