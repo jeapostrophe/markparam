@@ -8,4 +8,4 @@
                      "racket-doc"))
 (define pkg-authors '(jay))
 
-(define scribblings '(("scribblings/markparam.scrbl" () (library))))
+(define scribblings '(("scribblings/markparam.scrbl" () ("Syntax Extensions"))))
